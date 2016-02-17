@@ -1,0 +1,11 @@
+Breakdown of Project for Completion
+===================================
+
+- Design main web page
+- Log in page (what info required?)
+- Make film/tv show list/archive
+- make film rating system
+- make film comment system
+- create watchlist(wish list of movies/tv shows)
+- possible list of places available for streaming/purchase/rental
+
