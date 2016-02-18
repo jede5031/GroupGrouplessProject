@@ -7,5 +7,9 @@ Breakdown of Project for Completion
 - make film rating system
 - make film comment system
 - create watchlist(wish list of movies/tv shows)
-- possible list of places available for streaming/purchase/rental
+- create list of movies a user has already watched
+- possible list of places available for streaming/purchase/rental(/local theatre locations???)
 
+Other things to consider:
+- Way to make it so that comments/reviews can "black-out" spoilers
+- Way to get "friends" that you can recommend movies to/share reviews with
