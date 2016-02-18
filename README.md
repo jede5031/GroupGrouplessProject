@@ -1,7 +1,7 @@
 # Group Groupless Project
 The Software Dev Methods and Tools semester-long project repository for Group Groupless:
 
-Dylan Cole (dylanlcole), Jessica Delaney (jede5031), Rebecca Robb (tabularasa7), and Brian Sullivan (SlayerWatcher6)
+Dylan Cole (dylanlcole), Jessica Delaney (jede5031), Rebecca Robb (tabularasa7), and Brian T. Sullivan (SlayerWatcher6)
 
 #Poject Description
 The goal of this project is to make a website similar to GoodReads (maybe called GodViews?) that compiles info about movies / TV shows based on user reviews from sites, and making viwewing lists, check to see where videos are available, etc.
