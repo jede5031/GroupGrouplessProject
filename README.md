@@ -1,7 +1,7 @@
 # Group Groupless Project
 The Software Dev Methods and Tools semester-long project repository for Group Groupless:
 
-Dylan Cole (dylanlcole), Jessica Delaney (jede5031), Rebecca Robb (tabularasa7), and Brian Sullivan (SlayerWatcher6)
+Dylan Cole (dylanlcole), Jessica Delaney (jede5031), Rebecca Robb (tabularasa7), and Brian T. Sullivan (SlayerWatcher6)
 
 #Title
 GoodReels
