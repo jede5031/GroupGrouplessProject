@@ -27,7 +27,7 @@ Non-Functional Requirements:
 
 #Project Tracking Software
 We will be using Trello as our project tracker. The URL for the project board is https://trello.com/b/cJTjfLF5/project-board	
-![Blerg](http://imgur.com/DAx7LuO)
+![Blerg](http://i.imgur.com/DAx7LuO.jpg)
 
 # Files in This Repository
 D&DTest.cpp: The program I wrote to introduce some (very basic) concepts of D&D. Download this CPP file, and compile and run it using "g++ -std=c++11" and "./a.out" (both without the quotes) to run it
