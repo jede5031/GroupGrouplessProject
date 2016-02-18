@@ -1,7 +1,7 @@
 # Group Groupless Project
 The Software Dev Methods and Tools semester-long project repository for Group Groupless:
 
-Dylan Cole (dylanlcole), Jessica Delaney (jede5031), Rebecca Robb (tabularasa7), and Brian Sullivan (SlayerWatcher6)
+Dylan Cole (dylanlcole), Jessica Delaney (jede5031), Rebecca Robb (tabularasa7), and Brian T. Sullivan (SlayerWatcher6)
 
 #Title
 GoodReels
@@ -45,19 +45,21 @@ People love sharing the things they enjoy with others. With GoodReels, we want t
 
 #Requirements
 User Requirements:
-U01: As a User, I want to be able to track my viewing history so that I can share with my friends. - 3
-U02: As a User, I want to be able to login so that I can track my information using my account. - 1
-U03: As a User, I want to be able to recommend movies so that I can share what I like with friends. - 3
-U04: As a User, I want to be able to rate movies that I've seen so that I know which ones I want to watch again. - 3
-U05: As a User, I want to be able to comment on shows so that my friends can see what I think of a show. - 2
-U06: As a User, I want to be able to create a watch-list so that I can keep track of shows I want to see. - 2
-U07: As a User, I want to be able to see where my favorite shows are available to watch, so that I can watch them easily. - 5
+- U01: As a User, I want to be able to track my viewing history so that I can share with my friends. - 3
+- U02: As a User, I want to be able to login so that I can track my information using my account. - 1
+- U03: As a User, I want to be able to recommend movies so that I can share what I like with friends. - 3
+- U04: As a User, I want to be able to rate movies that I've seen so that I know which ones I want to watch again. - 3
+- U05: As a User, I want to be able to comment on shows so that my friends can see what I think of a show. - 2
+- U06: As a User, I want to be able to create a watch-list so that I can keep track of shows I want to see. - 2
+- U07: As a User, I want to be able to see where my favorite shows are available to watch, so that I can watch them easily. - 5
+
 Functional Requirements:
-F01: As a Developer, I want to be able to create a movie database so that we can consolidate user information. - 6
-F02: As a Developer, I want to be able to pull updated list information from video web services regularly so that I can keep the database up to date on films and movies. - 6 
-F03: As a Developer, I want to be able to build an easy to use website so that people can track their favorite movies. - 4
+- F01: As a Developer, I want to be able to create a movie database so that we can consolidate user information. - 6
+- F02: As a Developer, I want to be able to pull updated list information from video web services regularly so that I can keep the database up to date on films and movies. - 6 
+- F03: As a Developer, I want to be able to build an easy to use website so that people can track their favorite movies. - 4
+
 Non-Functional Requirements:
-N01: As a Developer, I want to be able to update the database frequently so that I can stay up to date on where shows are available. - 3
+- N01: As a Developer, I want to be able to update the database frequently so that I can stay up to date on where shows are available. - 3
 
 #Methodology
 Agile
