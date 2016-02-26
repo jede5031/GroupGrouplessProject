@@ -83,3 +83,5 @@ We will be using Trello as our project tracker. The URL for the project board is
 -D&DTest.cpp: The program I wrote to introduce some (very basic) concepts of D&D. Download this CPP file, and compile and run it using "g++ -std=c++11" and "./a.out" (both without the quotes) to run it
 
 -project_breakdown.txt: a text file with ideas for the project plan to add to the Trello
+
+-dvd_csv: a text file that holds info for many DVDs that we could use as our database 
