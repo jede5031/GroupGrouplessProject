@@ -87,3 +87,5 @@ We will be using Trello as our project tracker. The URL for the project board is
 -dvd_csv: a text file that holds info for many DVDs that we could use as our database 
 
 -MovieTestDB.csv: A CSV file containing an (unordered) list of the American Film Institute's top 20 films. Ratings of "N/A" is for films made prior to the MPAA creation of its current rating system that have not since been rated. This file will be used to help work with the database.
+-RESOURCES: will hold raw images and fonts for the websites
+-public_html: will hold the html, css, img, and js files for the website
