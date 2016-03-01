@@ -1,0 +1,117 @@
+/*universal styes */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Bree+Serif);
+/*css reset*/
+*,
+*:before,
+*:after {
+	margin: 0;
+	padding: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.clearfix:after {
+	display: table;
+	content: " ";
+	clear: both;
+}
+
+/* global styles */
+
+.hide {
+	display: none;
+}
+
+.centerme {
+	text-align: center;
+}
+
+
+
+/* page styes */
+
+/* selectors */
+/* changed from body to a class in order to allow different pages to have the same style sheet*/
+.home {
+	background: rgba(225, 244, 180, 0.81);
+	/*font-family: Tahoma, Geneva, sans-serif;*/
+	/*font-family: Geneva, Tahoma, sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
+}
+
+.container{   
+	width:1000px;
+	margin: 0 auto; /* auto adjust itself */
+}
+
+p,
+h2,
+h3,
+li {
+	margin-bottom: 10px;
+}
+
+
+p{
+	font-weight: 300;
+}
+h1,
+h2,
+h3 {
+	/*font-family: 'Permanent Marker', cursive;*/
+	font-family: 'Bree Serif', serif;  
+	font-weight: normal;
+	font-size: 1.6em;
+}
+
+h2 {
+	font-size: 1.4em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+
+	/*padding: 10px; makes a padding of 10px on each side*/
+		/*top right bottom left*/
+	/*size stye color*/
+.box {
+	background: rgba(255, 255, 255, 0.65);
+	/*top bottom*/
+	padding: 5px 10px;
+	border: 2px solid rgba(0,0,0,0.75);
+	margin-bottom: 13px;
+}
+/*show relaton*/
+nav a {
+	font-family: monospace;
+	font-size: 1.6em;
+	text-decoration: none;
+	padding: 3px 12px;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 25px;
+}
+/*what it looks like and after you have visited it*/
+nav a:link,
+nav a:visited {
+	color: rgba(0,0,0,0.85);
+
+}
+
+nav a:hover,
+nav a:active {
+	/*background: rgba(0,0,0,0.85);*/
+	border-bottom: 4px solid black;
+	padding-bottom: 1px;
+	color: rgba(155,155,155,0.85);
+}
+
+nav a:active {
+	color: white;
+}
