@@ -11,5 +11,6 @@ primary key (`id`)
 load data local infile 'MovieTestDB.csv' into table `movie` fields
 terminated by ','
 enclosed by '"'
-lines terminated by '/n'
-(`id`,`name`, `release_year`, `director`, `mpaa_rating`, `duration`)
+lines terminated by '\r'
+ignore 1 rows
+(`name`, `release_year`, `director`, `mpaa_rating`, `duration`);
