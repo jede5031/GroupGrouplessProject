@@ -1,0 +1,9 @@
+GOODREELS WEEKLY GOALS
+This file will keep track of what we intend to have finished each week. It will require discussion to decide what to do each week, but in doing so it will also be decided who will do what.
+
+[This is an EXAMPLE of what it might look like, since we need to actually discuss]
+Week X:
+Becky - Make login page
+Brian - Make database to sync login stuff with user accounts
+Dylan - Add search bar
+Jess - Check database for duplicates
