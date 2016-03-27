@@ -1,0 +1,5 @@
+GOODREELS CURRENT CAPABILITIES
+This is a file for internal group logistics 
+
+- Movie SQL File: stores information about movies, including titles, release year, duration, MPAA rating, and director - completed by Becky
+- Webhost <???> - Completed by Dylan
