@@ -92,4 +92,3 @@ We will be using Trello as our project tracker. The URL for the project board is
 
 #Website Address
 -Changed website due to lack of custom HTML on previous site.  New website is goodreels.github.io
->>>>>>> 7fc73b857d558c5e64e9700e9c54a62574780fb5
