@@ -15,7 +15,7 @@ Required: Firefox Web Browser, Selenium IDE Add-On for Firefox
 
 1. Open a Firefox web browser.
 
-2. Download the Selenium IDE Add-On for Firefox. Once downloaded a square icon with a pencil and (Se) will show up in your browser tools.
+2. Download the Selenium IDE Add-On for Firefox. Once downloaded a square icon with a pencil and (Se) will show up in your browser tools. Found here: https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
 
 3. Download the following files from the GroupGrouplessProject repository:
   - GoodReelsAutoTestv2 test suite
