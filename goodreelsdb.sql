@@ -13,4 +13,4 @@ terminated by ','
 enclosed by '"'
 lines terminated by '\r'
 ignore 1 rows
-(`name`, `release_year`, `director`, `mpaa_rating`, `duration`);
+(`name`, `release_year`, `director`, `mpaa_rating`, `duration`, `description`);
