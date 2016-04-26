@@ -79,16 +79,41 @@ Agile
 We will be using Trello as our project tracker. The URL for the project board is https://trello.com/b/cJTjfLF5/project-board	
 ![Blerg](http://i.imgur.com/DAx7LuO.jpg)
 
-# Files in This Repository
--D&DTest.cpp: The program I wrote to introduce some (very basic) concepts of D&D. Download this CPP file, and compile and run it using "g++ -std=c++11" and "./a.out" (both without the quotes) to run it
+#Repo Organization
 
--project_breakdown.txt: a text file with ideas for the project plan to add to the Trello
+-public_html/web: the html, css, img, and js files for the website
+
+-Capabilities.txt: an outline for website capability documentation
+
+-CommentTest.html: a tester for adding comments on our old comment system
+
+-D&DTest.cpp: NOT RELEVANT TO PROJECT. The program I wrote to introduce some (very basic) concepts of D&D. Download this CPP file, and compile and run it using "g++ -std=c++11" and "./a.out" (both without the quotes) to run it
+
+-GoodReels-slides.pdf: the PDF of our final presentation slides
+
+-GoodReelsAutoTestv2: the test suite for our automated tests
 
 -goodreelsdb.sql: SQL used to set up database 
 
+-MenuTraversal.html: a tester for traversing the website
+
 -MovieTestDB.csv: A CSV file containing an (unordered) list of the American Film Institute's top 20 films. Ratings of "N/A" is for films made prior to the MPAA creation of its current rating system that have not since been rated. This file will be used to help work with the database.
--RESOURCES: will hold raw images and fonts for the websites
--public_html: will hold the html, css, img, and js files for the website
+
+-project_breakdown.txt: a text file with ideas for the project plan to add to the Trello
+
+-Test1.png, Test2.png, Test3.png: automated test images
+
+-UAT 1.pdf, UAT 2.pdf, UAT 3.pdf: user acceptance test documentation
+
+-WeekGoals.txt: outline for weekly goal discussions
+
+#Where to find and/or how to build the docs
+
+
+
+#Describe how to build/run/test/etc code
+
+
 
 #Website Address
 -Changed website due to lack of custom HTML on previous site.  New website is goodreels.github.io
