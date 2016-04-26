@@ -107,6 +107,8 @@ We will be using Trello as our project tracker. The URL for the project board is
 
 -WeekGoals.txt: outline for weekly goal discussions
 
+All other information relevant to the site can be found on https://github.com/GoodReels/GoodReels.github.io
+
 #Where to find and/or how to build the docs
 
 
