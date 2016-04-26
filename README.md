@@ -110,11 +110,13 @@ We will be using Trello as our project tracker. The URL for the project board is
 All other information relevant to the site can be found on https://github.com/GoodReels/GoodReels.github.io
 
 #Where to find and/or how to build the docs
-
-
+Autodocumentation for sorttable.js performed using JSDoc.
+Run by typing "jsdoc sorttable.js". The result is index.html under the out/ directory.
 
 #Describe how to build/run/test/etc code
+To run tests, install the Selenium IDE as an add-on to FIREFOX. Then open the Selenium IDE and select GoodReelsAutoTestv2 and MenuTraversal.html. Then click the green button and run the test.
 
+(NOTE: Tests for commenting will currently fail, because we have not updated the tests for our current commenting system that works via Google+.)
 
 
 #Website Address
